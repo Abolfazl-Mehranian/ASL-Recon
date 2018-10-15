@@ -9,3 +9,5 @@ SPM software, available at https://www.fil.ion.ucl.ac.uk/spm/
 https://doi.org/
 
 ### Sample results:
+
+![asl_recon_results](https://user-images.githubusercontent.com/44095083/46965567-1d9ee780-d0a3-11e8-9e3d-a3e62bf44877.png)
