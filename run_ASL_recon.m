@@ -1,4 +1,4 @@
-
+build_asl_object();
 % set parameters for CBF quantification
 opt.TR = 4000;
 opt.T1t = 1300;
