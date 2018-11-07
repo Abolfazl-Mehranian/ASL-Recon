@@ -1,5 +1,5 @@
 # ASL-Recon
-Model-based high-resolution reconstruction of arterial spin labelling (ASL) MRI
+Motion-corrected and high-resolution anatomically-assisted (MOCHA) reconstruction of arterial spin labelling (ASL) MRI
 
 ## Requirements:
 SPM software, available at https://www.fil.ion.ucl.ac.uk/spm/
