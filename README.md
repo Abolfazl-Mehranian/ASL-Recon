@@ -4,9 +4,9 @@ Motion-corrected and high-resolution anatomically-assisted (MOCHA) reconstructio
 ## Requirements:
 SPM software, available at https://www.fil.ion.ucl.ac.uk/spm/
 
-### Sample data:
+### Reference:
 
-https://doi.org/
+https://doi.org/10.1002/mrm.28205
 
 ### Sample results:
 
